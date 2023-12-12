@@ -6,6 +6,22 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo "Hello PHP"; ?>
+    <?php
+    $food = "pizza";
+    echo "I love to eat " . $food . "<br>" 
+     
+
+
+
+  
+
+
+
+     ?>
+     
+
+
+
+
 </body>
 </html>

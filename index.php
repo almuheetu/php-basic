@@ -48,3 +48,12 @@ do {
 
 <h1>this is a most important topic.</h1>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis vero facilis exercitationem odio similique, labore perspiciatis doloribus minus ad vel aliquam eveniet natus molestias cupiditate.</p>
+
+<tr>
+  <td>
+    <div class="help">
+      <h1>concept</h1>
+      <input type="text" required>
+    </div>
+  </td>
+</tr>
